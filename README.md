@@ -4,7 +4,7 @@
 [🇬🇧 English Overview](#-english-overview) | [🇹🇷 Türkçe Kullanım Rehberi](#-türkçe-kullanım-rehberi)
 
 ## 🇬🇧 English Overview
-This cloud-based open-access repository hosts the advanced *econometric models, **AI simulations, **Excel templates, and **live Python scripts (.py)* featured in the book "From Data to Algorithms: Human Resources Engineering".
+This cloud-based open-access repository hosts the advanced **econometric models**, **AI simulations**, **Excel templates**, and **live Python scripts (.py)** featured in the book *"From Data to Algorithms: Human Resources Engineering"*.
 * *How to Use:* Click on any .py file above or in the index table below to view the script, or click the green *<> Code* button at the top right and select *Download ZIP* to download all files.
 * *Note:* Full English translations of the case studies and code comments are continuously updated in this repository alongside the English edition of the book.
 
@@ -16,7 +16,7 @@ This cloud-based open-access repository hosts the advanced *econometric models, 
 Python kodlarının içine müdahale etmenize gerek yoktur. Modellerin hatasız çalışması için yalnızca Excel veri dosyanızı aşağıdaki 3 kurala göre hazırlamanız yeterlidir:
 1. Sütun Başlıklarını Eşitleyin: Excel dosyanızın 1. satırındaki sütun adlarını, seçtiğiniz Python kodunun en üstünde # Gerekli Excel Sütunları: satırında belirtilen isimlerle birebir aynı yazın (boşluk yerine alt tire _ kullanın, Türkçe karakterleri ve parantez içi birimleri silin; örn: Egitim_Suresi).
 2. Dosya Adını Sabitleyin: Hazırladığınız Excel dosyasını sirket_verisi.xlsx adıyla kaydedin.
-3. Yükleyin ve Çalıştırın: GitHub'dan kopyaladığınız kodu Google Colab (://google.com) ekranına yapıştırın, sol menüdeki klasör simgesinden sirket_verisi.xlsx dosyanızı yükleyin ve Oynat (▶️) tuşuna basın.
+3. Yükleyin ve Çalıştırın: GitHub'dan kopyaladığınız kodu Google Colab (https://colab.research.google.com) ekranına yapıştırın, sol menüdeki klasör simgesinden sirket_verisi.xlsx dosyanızı yükleyin ve Oynat (▶️) tuşuna basın.
 
 > *💡 Sık Karşılaşılan Hatalar ve Pratik Çözümler (İpuçları)*
 > * *Dosya Adı Uzantısı:* Bilgisayarınızda Excel uzantıları gizliyse, dosyayı kaydederken adını sirket_verisi.xlsx yerine sadece *sirket_verisi* olarak yazın (aksi halde sirket_verisi.xlsx.xlsx oluşur ve sistem dosyayı bulamaz).
