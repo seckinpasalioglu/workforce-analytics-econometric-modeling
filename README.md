@@ -39,3 +39,12 @@ Aşağıdaki tablodan, arka plandaki büyük veri simülasyonunu koşturan Pytho
 
 ## 🛠️ Nasıl Kullanılır?
 1. Algoritmaların holding ölçeğindeki büyük veri simülasyon kodlarına erişmek için **Canlı Python Kodu** linklerine tıklayarak kaynak kodları kopyalayabilir ve Google Colab üzerinde tek tıkla koşturabilirsiniz.
+
+
+## Lisans / License
+
+Bu depodaki Python betikleri, veri simülasyon kodları ve Excel şablonları *MIT Lisansı* kapsamında açık kaynak olarak sunulmaktadır. Yasal metnin tamamı için ana dizindeki LICENSE dosyasına bakabilirsiniz.
+
+---
+
+The Python scripts, data simulation codes, and Excel templates in this repository are provided under the *MIT License*. Please see the LICENSE file in the root directory for the full legal text.
